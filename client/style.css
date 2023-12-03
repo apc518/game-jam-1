@@ -1,0 +1,12 @@
+body {
+    background-color: #202B20;
+}
+
+main {
+    display: flex;
+    color: white;
+}
+
+#stats {
+    padding: 1rem
+}
